@@ -19,11 +19,15 @@ It will consists of two main components: front-end and back-end.
 * Hosting platform: Netlify
 * Url: https://sangstagram.netlify.com
 * Domain: sangstagram.org (TBD)
+* Design System: [Material UI](https://material-ui.com/)
+* Graphql Client: [Apollo Client](https://www.apollographql.com/docs/react/)
 
 # Back-end
 
 * Repository: https://github.com/SanDiegoWebDevBootCamp/sangstagram-back
 * Hosting platform: Heroku
-* API: Graphql
+* API: [Graphql](https://www.apollographql.com/docs/apollo-server/)
 * Endpoint: https://sangstagram-back.herokuapp.com/
   * Playground: https://sangstagram-back.herokuapp.com/graphql
+* Database: MongoDB (future)
+* Caching: Redis (future)

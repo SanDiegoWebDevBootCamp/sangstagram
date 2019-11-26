@@ -20,6 +20,7 @@ It will consists of two main components: front-end and back-end.
 * Url: https://sangstagram.netlify.com
 * Domain: sangstagram.org (TBD)
 * Design System: [Material UI](https://material-ui.com/)
+* CSS-in-Js: [Emotion](https://emotion.sh/docs/introduction)
 * Graphql Client: [Apollo Client](https://www.apollographql.com/docs/react/)
 
 # Back-end

@@ -37,3 +37,6 @@ It consists of two main systems: front-end and back-end.
 * Caching: Redis (via [Heroku Redis To Go](https://elements.heroku.com/addons/redistogo) Add-on)
 * Storage: AWS S3 (via [Heroku HDrive](https://elements.heroku.com/addons/hdrive) Add-on)
 * Analytics: [Google Analytics](https://marketingplatform.google.com/about/analytics/)
+* Monitoring
+* Logging
+* Email

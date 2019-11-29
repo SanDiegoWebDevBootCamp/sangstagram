@@ -13,9 +13,9 @@ Sangstagram is an Instagram clone with the following features:
 
 It consists of two main systems: front-end and back-end.
 
-# Front-end
+# Web Front-end
 
-* Repository: https://github.com/SanDiegoWebDevBootCamp/sangstagram-front
+* Repository: https://github.com/SanDiegoWebDevBootCamp/sangstagram-web
 * Hosting platform: Netlify
 * Url: https://sangstagram.netlify.com
 * Domain: sangstagram.org (TBD)

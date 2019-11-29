@@ -29,6 +29,8 @@ It consists of two main systems: front-end and back-end.
 # Back-end
 
 * Repository: https://github.com/SanDiegoWebDevBootCamp/sangstagram-back
+* CI: https://circleci.com/gh/SanDiegoWebDevBootCamp/sangstagram-back
+* Test Coverage Trend: https://circleci.com/build-insights/gh/SanDiegoWebDevBootCamp/sangstagram-back/master
 * Hosting platform: Heroku
 * API: [Graphql](https://www.apollographql.com/docs/apollo-server/)
 * Endpoint: https://sangstagram-back.herokuapp.com/
